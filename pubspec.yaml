@@ -1,0 +1,27 @@
+name: order_tracker
+description: A beautiful 2-screen Order Tracker app built with Flutter. Fetches orders from a mock API, displays them with colored status chips, and shows a vertical status timeline on the detail screen.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  provider: ^6.1.4
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+  connectivity_plus: ^7.3.1
+  flutter_staggered_animations: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/mock_orders.json

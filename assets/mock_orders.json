@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ORD-1001",
+    "customer": "Aarav Sharma",
+    "items": ["Wireless Earbuds", "Phone Case"],
+    "amount": 2499.00,
+    "status": "delivered",
+    "placed_at": "2025-07-18T10:30:00Z"
+  },
+  {
+    "id": "ORD-1002",
+    "customer": "Priya Patel",
+    "items": ["Laptop Stand", "USB-C Hub", "Webcam"],
+    "amount": 5870.00,
+    "status": "out_for_delivery",
+    "placed_at": "2025-07-20T14:15:00Z"
+  },
+  {
+    "id": "ORD-1003",
+    "customer": "Rohan Mehta",
+    "items": ["Mechanical Keyboard"],
+    "amount": 3299.00,
+    "status": "shipped",
+    "placed_at": "2025-07-21T09:45:00Z"
+  },
+  {
+    "id": "ORD-1004",
+    "customer": "Sneha Gupta",
+    "items": ["Yoga Mat", "Resistance Bands", "Water Bottle"],
+    "amount": 1850.00,
+    "status": "confirmed",
+    "placed_at": "2025-07-22T16:20:00Z"
+  },
+  {
+    "id": "ORD-1005",
+    "customer": "Vikram Singh",
+    "items": ["Running Shoes"],
+    "amount": 4599.00,
+    "status": "placed",
+    "placed_at": "2025-07-23T11:00:00Z"
+  },
+  {
+    "id": "ORD-1006",
+    "customer": "Ananya Reddy",
+    "items": ["Bluetooth Speaker", "Charging Cable"],
+    "amount": 1999.00,
+    "status": "cancelled",
+    "placed_at": "2025-07-19T08:30:00Z"
+  },
+  {
+    "id": "ORD-1007",
+    "customer": "Karan Joshi",
+    "items": ["Smart Watch", "Watch Strap", "Screen Protector"],
+    "amount": 8750.00,
+    "status": "delivered",
+    "placed_at": "2025-07-15T13:45:00Z"
+  },
+  {
+    "id": "ORD-1008",
+    "customer": "Meera Nair",
+    "items": ["Backpack", "Laptop Sleeve"],
+    "amount": 3200.00,
+    "status": "shipped",
+    "placed_at": "2025-07-21T17:30:00Z"
+  }
+]
